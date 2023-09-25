@@ -1,0 +1,17 @@
+https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#library-documentation-top
+https://robotframework.org/robotframework/latest/libraries/BuiltIn.html#library-documentation-top
+https://robocorp.com/docs
+
+
+
+Severity and Priority - theory
+. Defect Management -
+ Bug Life Cycle 
+Basic documentation of software testing 
+
+
+//*[@id="divList"]/div[1]/div[2]/div/div[2]/div[2]
+
+//div[@class="tr-name t-ellipsis"]//following-sibling::div[@class="tr-no"]//following::div[@class="tr-col-2"]
+
+//div[@class="tr-name t-ellipsis"]//following-sibling::div[@class="tr-no"]//following::div[@class="tr-col-2"]//following::div/following::div[@class="tr-statn"]
